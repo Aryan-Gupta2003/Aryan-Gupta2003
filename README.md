@@ -6,6 +6,7 @@
 <br>
 <br>
 <br>
+<hr>
 
 - 🌱 I’m currently learning **JavaScript**
 
